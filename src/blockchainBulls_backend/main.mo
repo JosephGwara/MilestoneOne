@@ -34,7 +34,7 @@ actor EnglishAuction {
       }
     } else {
       print "The auction has not ended yet.";
-    }
+    };
     
     return null;
   }
